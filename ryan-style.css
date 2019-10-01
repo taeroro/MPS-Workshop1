@@ -1,0 +1,171 @@
+/* FIRST ITERATION */
+
+body.ryan-1 {
+/*   background: #999 ; */
+  font-family: 'Cinzel', serif;
+/*   margin: 360px ; */
+/*   text-align: center; */
+  
+  background: #434343;
+  
+  width: 100vw;
+  height: 100vh;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+body.ryan-1 .one {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+  padding: inherit;
+  color: #FFF;
+  opacity: inherit;
+  
+  transform: translate(-200px ,0);
+  
+}
+
+body.ryan-1 .two {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+  padding: inherit;
+  color: #FFF;
+  opacity: inherit;
+}
+body.ryan-1 .three{
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+  padding: inherit;
+  color: #FFF;
+  opacity: inherit;
+  
+  transform: translate(200px ,0);
+}
+
+
+/* SECOND ITERATION */
+
+
+body.ryan-2 {
+  font-family: 'Prata', serif;
+  font-size: 2rem;
+  font-weight: inherit;
+/*   text-decoration: inherit; */
+  text-decoration: line-through;
+  text-align: inherit;
+  padding: inherit;
+  color: #53D0EC;
+  opacity: inherit;
+  
+  background: #2748A0;
+  
+  width: 100vw;
+  height: 100vh;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  margin: 0;
+  
+  transform: rotate(-90deg) translate(-50vh, 0);
+  overflow: hidden;
+}
+body.ryan-2 .one {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+  padding: inherit;
+  color: inherit;
+  opacity: inherit;
+  
+  margin: 15px;
+}
+body.ryan-2 .two {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+  padding: inherit;
+  color: inherit;
+  opacity: inherit;
+  
+  margin: 15px;
+}
+body.ryan-2 .three{
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+  padding: inherit;
+  color: inherit;
+  opacity: inherit;
+  
+  margin: 15px;
+}
+
+
+/* THIRD ITERATION */
+
+
+body.ryan-3 {
+  font-family: 'Monoton', cursive;
+  font-size: 2.5rem;
+  font-weight: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+  padding: inherit;
+  color: inherit;
+  opacity: inherit;
+  
+/*   transform: ;
+  overflow: hidden; */
+}
+
+body.ryan-3 .one {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+  padding: inherit;
+  color: inherit;
+  opacity: inherit;
+}
+
+body.ryan-3 .two {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+  padding: inherit;
+  color: inherit;
+  opacity: inherit;
+}
+
+body.ryan-3 .three{
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+  padding: inherit;
+  color: inherit;
+  opacity: inherit;
+}
